@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NaughtsAndCrosses:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NaughtsAndCrosses_jar</output-path>
+    <root id="archive" name="NaughtsAndCrosses.jar">
+      <element id="module-output" name="NaughtsAndCrosses" />
+    </root>
+  </artifact>
+</component>
