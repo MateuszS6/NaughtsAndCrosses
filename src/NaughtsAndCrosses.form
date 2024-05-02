@@ -47,7 +47,7 @@
             </constraints>
             <properties>
               <focusable value="false"/>
-              <icon value="images/restart.png"/>
+              <icon value="restart.png"/>
               <text value=""/>
             </properties>
           </component>
@@ -67,7 +67,7 @@
             </constraints>
             <properties>
               <focusable value="false"/>
-              <icon value="images/exit.png"/>
+              <icon value="exit.png"/>
               <text value=""/>
             </properties>
           </component>
